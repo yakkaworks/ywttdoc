@@ -1,0 +1,17 @@
+site_name: YWTT Documentation
+site_description: Documentation for YWTT project.
+site_author: yakkaworks
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+nav:
+  - Overview:
+    - Home: index.md
+    - Getting Started: getting-started.md
+  - Skill Levels:
+    - Beginner: beginner.md
+    - Intermediate: intermediate.md
+    - Advanced: advanced.md
+    - Expert: expert.md
